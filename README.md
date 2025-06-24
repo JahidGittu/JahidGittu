@@ -2,23 +2,7 @@
 
 <!-- 👋 Intro Section -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="left">
-        <h2>👋 হে,</h2>
-        <h2>আমি <strong>জাহিদ হোসেন</strong></h2>
-        <p>
-          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" />
-          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-light.png" width="40" />
-          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" style="opacity: 0.3;" />
-          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-light.png" width="40" style="opacity: 0.1;" />
-        </p>
-      </td>
-      <td align="right">
-        <img src="https://avatars.githubusercontent.com/u/169464484?v=4" width="120" style="border-radius: 50%;" alt="Jahid's GitHub Profile" />
-      </td>
-    </tr>
-  </table>
+  <img src="./assets/Git Profiel Banner.jpg" alt="jahidgittu" />
 </div>
 
 ---
