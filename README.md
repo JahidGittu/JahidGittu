@@ -65,10 +65,10 @@
   <a href="mailto:jahid.hossen.me@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/jahid-hossen-me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://facebook.com/yourprofile" target="_blank">
+  <a href="https://www.facebook.com/Mohammad.Jahid.Hossen.fb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </p>
@@ -77,9 +77,9 @@
 
 ## 🚀 Pinned Projects
 
-### 📦 Parcel Delivery Website  
-> A map-based parcel booking & delivery platform using React + Leaflet  
-🔗 [Live Site](https://parcel-delivery.web.app)  
+### 📦 RoomMate Finder Website  
+> Roommate Finder is a platform dedicated to helping individuals find compatible roommates based on location, budget, lifestyle preferences, and shared interests. Our goal is to make shared living safe, easy, and enjoyable.  
+🔗 [Live Site](https://roommate-finder-pro.web.app/)  
 🧰 React, Tailwind, Firebase, Leaflet
 
 ---
