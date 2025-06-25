@@ -1,10 +1,9 @@
 <!-- 🌟 GitHub Profile README for JahidGittu -->
 
-<!-- 👇 Custom Banner Section -->
+<!-- 👋 Intro Section -->
 <div align="center">
   <table>
     <tr>
-      <!-- Left Side: Intro Text + GitHub Logos -->
       <td align="left">
         <h2>👋 হে,</h2>
         <h2>আমি <strong>জাহিদ হোসেন</strong></h2>
@@ -15,8 +14,6 @@
           <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-light.png" width="40" style="opacity: 0.1;" />
         </p>
       </td>
-
-      <!-- Right Side: Profile Image -->
       <td align="right">
         <img src="https://avatars.githubusercontent.com/u/169464484?v=4" width="120" style="border-radius: 50%;" alt="Jahid's GitHub Profile" />
       </td>
@@ -43,8 +40,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Diploma in Computer Engineering  
-- 🔭 Currently working on: **Parcel Delivery System (React + Leaflet)**  
-- 🌱 Learning: **Next.js, Firebase**  
+- 🔭 Working on: **Parcel Delivery System (React + Leaflet)**  
+- 🌱 Learning: **Next.js, Firebase, TypeScript**  
 - 💬 Ask me about: **React, Express, MongoDB, Firebase, Tailwind**  
 - ⚡ Fun Fact: `console.log("bugs")` – just to make them feel seen 😅  
 - 🌍 Portfolio: [jahidgittu.dev](https://jahidgittu.dev)  
@@ -58,15 +55,7 @@
 - ✅ Build full-stack apps with Next.js + Firebase  
 - ✅ Learn TypeScript deeply  
 - ✅ Contribute to open source  
-- ✅ Design cleaner UI with Tailwind + Figma
-
----
-
-## 🏆 Achievements & Badges
-
-![100DaysOfCode](https://img.shields.io/badge/-100DaysOfCode-black?style=flat-square&logo=freecodecamp)
-![Open Source](https://img.shields.io/badge/-Open%20Source-007acc?style=flat-square&logo=github)
-![Hacktoberfest](https://img.shields.io/badge/-Hacktoberfest-orange?style=flat-square&logo=hacktoberfest)
+- ✅ Design cleaner UI with Tailwind + Figma  
 
 ---
 
@@ -78,9 +67,17 @@
 
 ---
 
+## 🏆 Achievements & Badges
+
+![100DaysOfCode](https://img.shields.io/badge/-100DaysOfCode-black?style=flat-square&logo=freecodecamp)
+![Open Source](https://img.shields.io/badge/-Open%20Source-007acc?style=flat-square&logo=github)
+![Hacktoberfest](https://img.shields.io/badge/-Hacktoberfest-orange?style=flat-square&logo=hacktoberfest)
+
+---
+
 ## 🌐 Connect with Me
 
-<div align="left">
+<p align="left">
   <a href="mailto:jahid.hossen.me@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
@@ -90,7 +87,7 @@
   <a href="https://facebook.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" />
   </a>
-</div>
+</p>
 
 ---
 
@@ -126,37 +123,35 @@
 
 ---
 
-## 🧠 Languages and Tools Showcase
+## 🧪 Languages Showcase
 
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
-</div>
+</p>
 
 ---
 
-## 🧪 Open Source Contributions
+## 🧠 Open Source Contributions
 
-- [Parcel Branch Finder](https://github.com/your-repo-link) – Added district-wise coverage and Leaflet fly animation  
-- [Firebase Auth Starter](https://github.com/your-repo-link) – Setup email/password & protected routes
+- 📦 **Parcel Branch Finder** – District-wise Leaflet integration  
+- 🔐 **Firebase Auth Starter** – Email/password setup with route protection
 
 ---
 
-## 🐍 GitHub Contribution Snake Animation
+## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/jahidgittu/jahidgittu/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
