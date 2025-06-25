@@ -155,13 +155,3 @@
 </p>
 
 ---
-
-## 😂 Just for Fun
-
-<img align="right" src="https://i.imgflip.com/65efzo.gif" height="150" />
-
-```js
-// A developer's mantra
-while (!success) {
-  try();
-}
