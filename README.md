@@ -75,29 +75,43 @@
 
 ---
 
-🚀 Pinned Projects
-🏡 Roommate Finder Pro
-A modern web application that helps individuals find compatible roommates based on preferences like location, rent, and lifestyle.
-🔗 Live Site
-🧰 React, Tailwind CSS, Firebase, Leaflet
+## 🚀 Pinned Projects
 
-💡 Bill Management Website
-একটি সুন্দর ও সহজ ইউটিলিটি বিল পেমেন্ট প্ল্যাটফর্ম, যেখানে ইউজাররা তাদের বিদ্যুৎ, পানি, গ্যাস ইত্যাদি বিল দেখতে ও পরিশোধ করতে পারে।
-🔗 Live Website
-🧰 JavaScript, Node.js, Express.js, MongoDB, Firebase
+### 💡 Bill Management Website
+> একটি সহজ ইউটিলিটি বিল ম্যানেজমেন্ট সিস্টেম যেখানে ইউজাররা বিদ্যুৎ, পানি, গ্যাস ইত্যাদি বিল দেখতে ও পেমেন্ট করতে পারে।
 
-🎯 Product Recommendation System
-A feature-rich product review & recommendation platform. Users can submit product boycott queries, view recommendations, rate products, and interact through comments. Responsive UI with smooth animations.
-🔗 Live Demo
-🔗 Client Repo
-🔗 Server Repo
-🧰 React, Tailwind CSS, Firebase Auth, Vite, Framer Motion, GSAP, Node.js, Express.js, MongoDB
+- 🔗 [Live Site](https://bill-management-system-1b076.web.app/)
+- 🧰 JavaScript, Node.js, Express.js, MongoDB, Firebase
 
-🏨 Hostel Meals – Hostel Management System
-MERN-based University Hostel Meal & Review Management System. Handles daily meals, collects student reviews, and streamlines admin control.
-🔗 Live Preview
-👨‍💼 Admin Login: code@gittu.com / 123456
-🧰 React, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB
+---
+
+### 🏡 Roommate Finder Pro
+> Find compatible roommates easily by filtering preferences like budget, lifestyle & location.
+
+- 🔗 [Live Site](https://roommate-finder-pro.web.app/)
+- 🔗 [Client Repo](https://github.com/jahidgittu/Roommate-Finder-Client)
+- 🔗 [Server Repo](https://github.com/jahidgittu/Roommate-Finder-Server)
+- 🧰 React, Tailwind CSS, Firebase, Leaflet
+
+---
+
+### 🎯 Product Recommendation System
+> Submit boycott queries, view suggestions, comment and rate. Responsive UI with animations.
+
+- 🔗 [Live Demo](https://product-recommendation-pro.web.app/)
+- 🔗 [Client Repo](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-JAHID-SUPER-GIT)
+- 🔗 [Server Repo](https://github.com/Programming-Hero-Web-Course4/b11a11-server-side-JAHID-SUPER-GIT)
+- 🧰 React, Vite, Tailwind CSS, Firebase Auth, Framer Motion, GSAP, Node.js, Express.js, MongoDB
+
+---
+
+### 🏨 Hostel Meals – Hostel Management System
+> Hostel meal & review system for university students. Admin panel included.
+
+- 🔗 [Live Site](https://HostelMeals.web.app)
+- 👨‍💼 Admin: `code@gittu.com` / `123456`
+- 🧰 React, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB
+
 
 ## 📈 GitHub Stats
 
