@@ -28,9 +28,9 @@
 - 🌱 Learning: **Next.js, Firebase, TypeScript**  
 - 💬 Ask me about: **React, Express, MongoDB, Firebase, Tailwind**  
 - ⚡ Fun Fact: `console.log("bugs")` – just to make them feel seen 😅  
-- 🌍 Portfolio: [jahidgittu.dev](https://jahidgittu.dev)  
+- 🌍 Portfolio: [jahidgittu.dev](http://jahid-portfolio.surge.sh/)  
 - 📫 Email: **jahid.hossen.me@gmail.com**  
-- 📍 Location: **Dhaka, Bangladesh**
+- 📍 Location: **Lakshmipur, Bangladesh**
 
 ---
 
@@ -75,28 +75,29 @@
 
 ---
 
-## 🚀 Pinned Projects
+🚀 Pinned Projects
+🏡 Roommate Finder Pro
+A modern web application that helps individuals find compatible roommates based on preferences like location, rent, and lifestyle.
+🔗 Live Site
+🧰 React, Tailwind CSS, Firebase, Leaflet
 
-### 📦 RoomMate Finder Website  
-> Roommate Finder is a platform dedicated to helping individuals find compatible roommates based on location, budget, lifestyle preferences, and shared interests. Our goal is to make shared living safe, easy, and enjoyable.  
-🔗 [Live Site](https://roommate-finder-pro.web.app/)  
-🧰 React, Tailwind, Firebase, Leaflet
+💡 Bill Management Website
+একটি সুন্দর ও সহজ ইউটিলিটি বিল পেমেন্ট প্ল্যাটফর্ম, যেখানে ইউজাররা তাদের বিদ্যুৎ, পানি, গ্যাস ইত্যাদি বিল দেখতে ও পরিশোধ করতে পারে।
+🔗 Live Website
+🧰 JavaScript, Node.js, Express.js, MongoDB, Firebase
 
----
+🎯 Product Recommendation System
+A feature-rich product review & recommendation platform. Users can submit product boycott queries, view recommendations, rate products, and interact through comments. Responsive UI with smooth animations.
+🔗 Live Demo
+🔗 Client Repo
+🔗 Server Repo
+🧰 React, Tailwind CSS, Firebase Auth, Vite, Framer Motion, GSAP, Node.js, Express.js, MongoDB
 
-### ✍️ Blog Application  
-> A basic CRUD blog app with Firebase authentication and post management  
-🔗 [Live Demo](#)  
-🧰 React, Firebase, React Router
-
----
-
-### 💼 Remittance Agent Dashboard  
-> Dual-role dashboard for bKash cash-in/out operations  
-🔗 [Live Preview](#)  
-🧰 React, Tailwind, Chart.js, Context API
-
----
+🏨 Hostel Meals – Hostel Management System
+MERN-based University Hostel Meal & Review Management System. Handles daily meals, collects student reviews, and streamlines admin control.
+🔗 Live Preview
+👨‍💼 Admin Login: code@gittu.com / 123456
+🧰 React, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB
 
 ## 📈 GitHub Stats
 
