@@ -108,7 +108,7 @@
 ### 🏨 Hostel Meals – Hostel Management System
 > Hostel meal & review system for university students. Admin panel included.
 
-- 🔗 [Live Site](https://HostelMeals.web.app)
+- 🔗 [Live Site](https://hostel-management-system-pro.web.app/)
 - 👨‍💼 Admin: `code@gittu.com` / `123456`
 - 🧰 React, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB
 
