@@ -13,7 +13,6 @@
 
 <p align="center">
   💻 I build <strong>modern</strong>, <strong>responsive</strong>, and <strong>scalable</strong> web applications using <strong>MERN</strong> Stack & modern tools.<br/>
-  🚀 Trained at <strong>Programming Hero</strong> with 5+ years of experience in building impactful, performance-driven projects.
 </p>
 
 
