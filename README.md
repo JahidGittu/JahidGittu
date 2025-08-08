@@ -53,7 +53,6 @@
 <h2>👨‍💻 About Me</h2>
 <ul>
   <li>🎓 Diploma in Computer Engineering</li>
-  <li>🔭 Working on: <strong>Parcel Delivery System (React + Leaflet)</strong></li>
   <li>🌱 Learning: <strong>Next.js, Firebase, TypeScript</strong></li>
   <li>💬 Ask me about: React, Express, MongoDB, Firebase, Tailwind</li>
   <li>⚡ Fun Fact: <code>console.log("bugs")</code> – just to make them feel seen 😅</li>
@@ -99,7 +98,7 @@
   <a href="mailto:jahid.hossen.me@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/jahid-hossen-me" target="_blank">
+  <a href="https://www.linkedin.com/in/jahidgittu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://wa.me/8801640726858" target="_blank">
