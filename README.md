@@ -7,7 +7,7 @@
 
 <hr />
 
-<h1 align="center">👋 Hey there, I’m <span style="color:#007acc;">Jahid Hossen</span> – a Passionate MERN Stack Developer!</h1>
+<h1 align="center">👋 Hey there, I’m <span style="color:#007acc;">Jahid Hossen</span> </br> – a Passionate MERN Stack Developer!</h1>
 
 <!-- 👤 WHO AM I -->
 <h2>🧑‍💻 Who am I?</h2>
