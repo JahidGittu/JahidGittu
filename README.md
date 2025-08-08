@@ -36,7 +36,7 @@
 
 ## 🎯 Learning Goals (2025)
 
-- ✅ Build full-stack apps with Next.js + Firebase  
+- ✅ Build full-stack apps with Next.js + Firebase 
 - ✅ Learn TypeScript deeply  
 - ✅ Contribute to open source  
 - ✅ Design cleaner UI with Tailwind + Figma  
@@ -68,9 +68,9 @@
   <a href="https://www.linkedin.com/in/jahid-hossen-me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.facebook.com/Mohammad.Jahid.Hossen.fb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" />
-  </a>
+ <a href="https://wa.me/8801640726858" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" />
+</a>
 </p>
 
 ---
@@ -112,6 +112,7 @@
 - 👨‍💼 Admin: `code@gittu.com` / `123456`
 - 🧰 React, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB
 
+---
 
 ## 📈 GitHub Stats
 
