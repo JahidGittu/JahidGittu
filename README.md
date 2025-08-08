@@ -63,7 +63,7 @@
 <h2>👨‍💻 About Me</h2>
 <ul>
   <li>🎓 Diploma in Computer Engineering</li>
-  <li>🌱 Learning: <strong>Next.js, Firebase, TypeScript</strong></li>
+  <li>🌱 Learning: <strong>Next.js, TypeScript</strong></li>
   <li>💬 Ask me about: React, Express, MongoDB, Firebase, Tailwind</li>
   <li>⚡ Fun Fact: <code>console.log("bugs")</code> – just to make them feel seen 😅</li>
   <li>🌍 Portfolio: <a href="http://jahid-portfolio.surge.sh/" target="_blank">jahidgittu.dev</a></li>
