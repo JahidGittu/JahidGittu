@@ -30,11 +30,11 @@
 <!-- 🚀 HOW DO I ADD VALUE -->
 <h2>🚀 How do I add value?</h2>
 <ul>
-  <li>🔍 I write clean, reusable, and optimized code</li>
-  <li>📱 I ensure mobile-first & responsive design</li>
-  <li>💡 I focus on user experience and performance</li>
-  <li>🤝 I can work independently or as part of a collaborative team</li>
-  <li>📈 I constantly learn new technologies to stay up-to-date</li>
+  <li> 🔍 I write clean, reusable, and optimized code</li>
+  <li> 📱  I ensure mobile-first & responsive design</li>
+  <li> 💡  I focus on user experience and performance</li>
+  <li> 🤝 I can work independently or as part of a collaborative team</li>
+  <li> 📈 I constantly learn new technologies to stay up-to-date</li>
 </ul>
 
 <!-- 🔑 TECH KEYWORDS -->
