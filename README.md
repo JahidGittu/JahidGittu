@@ -183,15 +183,6 @@
 
 <hr />
 
-<!-- 🧠 OPEN SOURCE CONTRIBUTIONS -->
-<h2>🧠 Open Source Contributions</h2>
-<ul>
-  <li>📦 <strong>Parcel Branch Finder</strong> – District-wise Leaflet integration</li>
-  <li>🔐 <strong>Firebase Auth Starter</strong> – Email/password setup with route protection</li>
-</ul>
-
-<hr />
-
 <!-- 🐍 CONTRIBUTION SNAKE -->
 <h2>🐍 Contribution Snake Animation</h2>
 <p align="center">
