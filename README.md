@@ -125,6 +125,7 @@
 <blockquote>একটি সহজ ইউটিলিটি বিল ম্যানেজমেন্ট সিস্টেম যেখানে ইউজাররা বিদ্যুৎ, পানি, গ্যাস ইত্যাদি বিল দেখতে ও পেমেন্ট করতে পারে।</blockquote>
 <ul>
   <li>🔗 <a href="https://bill-management-system-1b076.web.app/">Live Site</a></li>
+    <li>🔗 <a href="https://github.com/JahidGittu/Bill-ManageMent-System.git">Git Repo</a></li>
   <li>🧰 JavaScript, Node.js, Express.js, MongoDB, Firebase</li>
 </ul>
 
@@ -132,8 +133,8 @@
 <blockquote>Find compatible roommates easily by filtering preferences like budget, lifestyle & location.</blockquote>
 <ul>
   <li>🔗 <a href="https://roommate-finder-pro.web.app/">Live Site</a></li>
-  <li>🔗 <a href="https://github.com/jahidgittu/Roommate-Finder-Client">Client Repo</a></li>
-  <li>🔗 <a href="https://github.com/jahidgittu/Roommate-Finder-Server">Server Repo</a></li>
+  <li>🔗 <a href="https://github.com/JahidGittu/Roommate-Finder-Client.git">Client Repo</a></li>
+  <li>🔗 <a href="https://github.com/JahidGittu/Roommate-Finder-Server.git">Server Repo</a></li>
   <li>🧰 React, Tailwind CSS, Firebase, Leaflet</li>
 </ul>
 
@@ -141,8 +142,8 @@
 <blockquote>Submit boycott queries, view suggestions, comment and rate. Responsive UI with animations.</blockquote>
 <ul>
   <li>🔗 <a href="https://product-recommendation-pro.web.app/">Live Demo</a></li>
-  <li>🔗 <a href="https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-JAHID-SUPER-GIT">Client Repo</a></li>
-  <li>🔗 <a href="https://github.com/Programming-Hero-Web-Course4/b11a11-server-side-JAHID-SUPER-GIT">Server Repo</a></li>
+  <li>🔗 <a href="https://github.com/JahidGittu/Product-Recommendation-Client.git">Client Repo</a></li>
+  <li>🔗 <a href="https://github.com/JahidGittu/Product-Recommendation-Server.git">Server Repo</a></li>
   <li>🧰 React, Vite, Tailwind CSS, Firebase Auth, Framer Motion, GSAP, Node.js, Express.js, MongoDB</li>
 </ul>
 
@@ -150,6 +151,8 @@
 <blockquote>Hostel meal & review system for university students. Admin panel included.</blockquote>
 <ul>
   <li>🔗 <a href="https://hostel-management-system-pro.web.app/">Live Site</a></li>
+  <li>🔗 <a href="https://github.com/JahidGittu/Hostel-Meals-client-Side.git">Client Repo</a></li>
+  <li>🔗 <a href="https://github.com/JahidGittu/Hostel-Meals-Server-Side.git">Server Repo</a></li>
   <li>👨‍💼 Admin: <code>code@gittu.com</code> / <code>123456</code></li>
   <li>🧰 React, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB</li>
 </ul>
