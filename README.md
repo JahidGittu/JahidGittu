@@ -2,7 +2,7 @@
 
 <!-- 👋 Intro Section -->
 <div align="center">
-  <img src="./assets/Git Profiel Banner.jpg" alt="jahidgittu" />
+  <img src="./assets/Git Profiel Banner.jpg" alt="jahidgittu" style="max-width: 100%; height: auto; width: 100%; max-width: 1280px;" />
 </div>
 
 <hr />
