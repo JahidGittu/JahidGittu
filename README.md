@@ -6,7 +6,16 @@
 </div>
 <hr />
 
-<h1 align="center">👋 Hey there, I’m <span style="color:#007acc;">Jahid Hossen</span> </br> – a Passionate MERN Stack Developer!</h1>
+<h1 align="center">
+  <strong style="font-size: 2.2rem;">🚀 Hi, I'm <span style="color:#007acc;">Jahid Hossen</span></strong> <br/>
+  <span style="font-size: 1.3rem;">A Passionate, Detail-Oriented <strong>MERN Stack Web Developer</strong></span>
+</h1>
+
+<p align="center">
+  💻 I build <strong>modern</strong>, <strong>responsive</strong>, and <strong>scalable</strong> web applications using <strong>MERN</strong> Stack & modern tools.<br/>
+  🚀 Trained at <strong>Programming Hero</strong> with 5+ years of experience in building impactful, performance-driven projects.
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jahidgittu&label=Profile%20views&color=0e75b6&style=flat" alt="jahidgittu" />
@@ -42,10 +51,11 @@
 </ul>
 
 <!-- 🔑 TECH KEYWORDS -->
-<h2>🔑 Technology i interested in</h2>
+<h2>🔑 Technologies I'm Interested In</h2>
 <p>
-  JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, Firebase, Tailwind CSS, Figma, Git, REST API, JWT, Axios, Vite, Framer Motion
+  <code>JavaScript</code>, <code>TypeScript</code>, <code>React</code>, <code>Next.js</code>, <code>Node.js</code>, <code>Express</code>, <code>MongoDB</code>, <code>Firebase</code>, <code>Tailwind CSS</code>, <code>Figma</code>, <code>Git</code>, <code>REST API</code>, <code>JWT</code>, <code>Axios</code>, <code>Vite</code>, <code>Framer Motion</code>
 </p>
+
 
 <hr />
 
@@ -56,7 +66,7 @@
   <li>🌱 Learning: <strong>Next.js, Firebase, TypeScript</strong></li>
   <li>💬 Ask me about: React, Express, MongoDB, Firebase, Tailwind</li>
   <li>⚡ Fun Fact: <code>console.log("bugs")</code> – just to make them feel seen 😅</li>
-  <li>🌍 Portfolio: <a href="http://jahid-portfolio.surge.sh/">jahidgittu.dev</a></li>
+  <li>🌍 Portfolio: <a href="http://jahid-portfolio.surge.sh/" target="_blank">jahidgittu.dev</a></li>
   <li>📫 Email: <a href="mailto:jahid.hossen.me@gmail.com">jahid.hossen.me@gmail.com</a></li>
   <li>📍 Location: Lakshmipur, Bangladesh</li>
 </ul>
@@ -156,7 +166,7 @@
 <hr />
 
 <!-- 🧪 LANGUAGES SHOWCASE -->
-<h2>🧪 Languages Showcase</h2>
+<h2>💻 Languages & Technologies I Use</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
