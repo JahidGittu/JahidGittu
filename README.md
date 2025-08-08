@@ -153,7 +153,7 @@
   <li>🔗 <a href="https://hostel-management-system-pro.web.app/">Live Site</a></li>
   <li>🔗 <a href="https://github.com/JahidGittu/Hostel-Meals-client-Side.git">Client Repo</a></li>
   <li>🔗 <a href="https://github.com/JahidGittu/Hostel-Meals-Server-Side.git">Server Repo</a></li>
-  <li>👨‍💼 Admin: <code>code@gittu.com</code> / <code>123456</code></li>
+  <li>👨‍💼 Admin: <code>code@gittu.com</code> / Password: <code>123456</code></li>
   <li>🧰 React, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB</li>
 </ul>
 
