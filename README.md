@@ -52,7 +52,8 @@
 <!-- 🔑 TECH KEYWORDS -->
 <h2>🔑 Technologies I'm Interested In</h2>
 <p>
-  <code>JavaScript</code>, <code>TypeScript</code>, <code>React</code>, <code>Next.js</code>, <code>Node.js</code>, <code>Express</code>, <code>MongoDB</code>, <code>Firebase</code>, <code>Tailwind CSS</code>, <code>Figma</code>, <code>Git</code>, <code>REST API</code>, <code>JWT</code>, <code>Axios</code>, <code>Vite</code>, <code>Framer Motion</code>
+  <code>JavaScript</code>, <code>TypeScript</code>, <code>React</code>, <code>Next.js</code>, <code>Node.js</code>, <code>Express</code>, <code>MongoDB</code>, <code>Firebase</code>, </br>
+  <code>Tailwind CSS</code>, <code>Figma</code>, <code>Git</code>, <code>REST API</code>, <code>JWT</code>, <code>Axios</code>, <code>Vite</code>, <code>Framer Motion</code>
 </p>
 
 
