@@ -4,10 +4,14 @@
 <div align="center">
   <img src="https://github.com/JahidGittu/JahidGittu/blob/main/assets/Git%20Profiel%20Banner.jpg" alt="jahidgittu" style="max-width: 100%; height: auto; width: 100%; max-width: 640px;" />
 </div>
-
 <hr />
 
 <h1 align="center">👋 Hey there, I’m <span style="color:#007acc;">Jahid Hossen</span> </br> – a Passionate MERN Stack Developer!</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jahidgittu&label=Profile%20views&color=0e75b6&style=flat" alt="jahidgittu" />
+</p>
+
 
 <!-- 👤 WHO AM I -->
 <h2>🧑‍💻 Who am I?</h2>
@@ -41,10 +45,6 @@
 <h2>🔑 Technology i interested in</h2>
 <p>
   JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, Firebase, Tailwind CSS, Figma, Git, REST API, JWT, Axios, Vite, Framer Motion
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jahidgittu&label=Profile%20views&color=0e75b6&style=flat" alt="jahidgittu" />
 </p>
 
 <hr />
