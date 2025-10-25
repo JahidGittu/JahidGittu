@@ -1,4 +1,4 @@
-<!-- 🌟 JahidGittu — Compact & Polished GitHub Profile README (Final Updated) -->
+<!-- 🌟 JahidGittu — Polished README with Najib-style Dividers -->
 
 <div align="center">
 
@@ -6,68 +6,128 @@
 <img src="https://github.com/JahidGittu/JahidGittu/blob/main/assets/Git%20Profiel%20Banner.jpg" alt="Jahid Hossen Banner" style="max-width:100%; width:100%; height:auto; border-radius:10px;" />
 
 <!-- Animated Capsule Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Jahid%20Hossen&fontSize=44&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Building+Modern+Web+Apps+with+MERN&descAlignY=62&descSize=14" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Jahid%20Hossen&fontSize=48&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Crafting%20Digital%20Solutions%20with%20MERN&descAlignY=64&descSize=14" />
 
-<!-- Typing Animation -->
-<!-- Typing Animation with proper height -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1000&color=00D9FF&center=true&multiline=true&width=780&lines=MERN+Based+Full+Stack+Developer;+AI+Tools+Builder;+UI%2FUX+Focused" 
+<!-- Typing Animation (height fixed to avoid cut-off) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00D9FF&center=true&multiline=true&width=820&lines=MERN+Based+Full+Stack+Developer;+AI+Tools+Builder;+UI%2FUX+Focused" 
      alt="Typing" 
      style="height:150px; display:block; margin:auto;" />
 
-
 </div>
 
----
-## 👋 About Me
+<br/>
+
+<div align="center">
+# 🎭 About My Digital Journey <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px" />
+</div>
+
+<!-- Holographic Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" />
+</p>
+
 <div align="center">
 
-### **Jahid Hossen**  
-<span style="font-size:16px; color:#555;">Full Stack Developer · Dhaka, Bangladesh</span>
-
-<br /><br />
-
-<!-- Contact & Social Links as badges -->
-<a href="mailto:jahid.hossen.me@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="tel:+8801640726858">
-  <img src="https://img.shields.io/badge/Phone-%230077B5?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
-</a>
-<a href="https://jahidgittu-portfolio.web.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%2300D9FF?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://github.com/JahidGittu" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="http://linkedin.com/in/jahidgittu" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.facebook.com/Mohammad.Jahid.Hossen.fb" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
+**Jahid Hossen** · Full Stack Developer · Dhaka, Bangladesh  
+📧 [jahid.hossen.me@gmail.com](mailto:jahid.hossen.me@gmail.com) · ☎️ +8801624334044 · ☎️ +8801640726858  
+🌐 [Portfolio](https://jahidgittu-portfolio.web.app/) · [GitHub](https://github.com/JahidGittu) · [LinkedIn](http://linkedin.com/in/jahidgittu) · [Facebook](https://www.facebook.com/Mohammad.Jahid.Hossen.fb)
 
 </div>
 
-
-> Passionate MERN-based Full Stack Developer with hands-on experience building scalable, responsive, and user-friendly web applications. Skilled in React.js, Next.js, Node.js, Express.js, and MongoDB, with a strong focus on performance optimization and clean code architecture. Dedicated to continuous learning and contributing innovative solutions.
+- 🔭 Currently building **MERN stack web apps & AI-based tools**  
+- 🌱 Learning **Next.js, TypeScript, AI integration**  
+- 💬 Talk to me about **React.js, Node.js, MongoDB, Firebase, Tailwind CSS**  
+- ⚡ Fun fact: **I enjoy turning complex ideas into simple, scalable solutions with clean UI/UX**
 
 ---
 
-## 🛠 Tech Stack (use `<code>` tags)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,vscode,figma,bootstrap" alt="skills" />
+# 🔥 Tech Arsenal & Digital Superpowers <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="36px" height="36px" />
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" />
+</p>
+
+## Languages
 <div align="center">
-<p><code>Frontend: React, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, Bootstrap</code></p>
-<p><code>Backend: Node.js, Express.js, JWT, Firebase Auth</code></p>
-<p><code>Database: MongoDB, MySQL</code></p>
-<p><code>Deployment &amp; Tools: Vercel, Netlify, Render, Firebase Hosting, Git, GitHub, Figma, Jira, Canva</code></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
+</div>
+
+## Frontend
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" title="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" title="Bootstrap" />
+</div>
+
+## Backend & APIs
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" title="Express.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" title="Firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" height="40" title="JWT" />
+</div>
+
+## Databases
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
+</div>
+
+## Cloud & Deployment
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" title="Vercel" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" title="Netlify" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" title="Firebase" />
+</div>
+
+## Tools & Workflow
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" title="Figma" />
 </div>
 
 ---
 
-## 🚀 Pinned Projects
+<div align="center">
+# 📊 GitHub Analytics & Performance <img src="https://media2.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="36px" height="36px" />
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" />
+</p>
+
+<div align="center">
+  <!-- GitHub Advanced Stats: replace `jahidgittu` with your username if needed -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jahidgittu&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidgittu&layout=compact&theme=radical" width="48%" />
+</div>
+
+---
+
+<div align="center">
+# 🚀 Pinned Projects <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" height="30px" />
+</div>
 
 <!-- 🚀 PINNED PROJECTS -->
 <h3>💡 Bill Management Website</h3>
@@ -108,78 +168,53 @@
 
 ---
 
-## 🧩 How I Add Value (UX-focused)
-- 🔍 Clean, reusable, and well-documented code  
-- 📱 Mobile-first and accessible interfaces  
-- ⚡ Performance-first architecture and optimizations  
-- 🤝 Strong collaboration & clear communication in teams  
-- 🎨 UI/UX-minded — polish and usability matter
-
----
-
-## 🎓 Education
-**Diploma in Engineering (Computer Science & Technology)** — Shyamoli Ideal Engineering College, Lakshmipur (Passing: 2026)  
-**HSC (Higher Secondary Certificate)** — Raipur Rustam Ali Degree College (Passing: 2021)
-
----
-
-## 🌍 Languages
-**English:** Fluent · **Bangla:** Native
-
----
-
-## 🏆 Achievements & Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/-100DaysOfCode-black?style=flat-square&logo=freecodecamp" />
-  <img src="https://img.shields.io/badge/-Open%20Source-007acc?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/-Hacktoberfest-orange?style=flat-square&logo=hacktoberfest" />
-</p>
-
----
-
-## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahidgittu&show_icons=true&theme=radical&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidgittu&layout=compact&theme=radical" height="150" />
+# 💭 Developer Quote <img src="https://media2.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="36px" height="36px" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote" />
 </div>
 
 ---
 
-<!-- 🐍 CONTRIBUTION SNAKE -->
-<h2>🐍 Contribution Snake Animation</h2>
+<div align="center">
+# 🎨 Fun Zone & Developer Life <img src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="36px" height="36px" />
+</div>
+
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="80%" style="object-fit:cover;" alt="matrix" />
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&width=600&lines=if+(coding)+%7B+mood+%3D+'Happy'+%7D;else+if+(debugging)+%7B+mood+%3D+'Determined'+%7D;else+%7B+mood+%3D+'Ready+to+ship!'+%7D" alt="Developer Status" />
+</div>
+
+---
+
+<div align="center">
+  <!-- Contribution Snake -->
+  <h2>🐍 Contribution Snake Animation</h2>
   <img src="https://raw.githubusercontent.com/jahidgittu/jahidgittu/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-## 🌐 Connect with Me
-<div align="center">
-  <a href="http://linkedin.com/in/jahidgittu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jahid.hossen.me@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/8801640726858" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://github.com/JahidGittu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.facebook.com/Mohammad.Jahid.Hossen.fb" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://jahidgittu-portfolio.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2300D9FF?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Portfolio" />
-  </a>
 </div>
 
+---
+
+<div align="center">
+  <!-- Connect Badges -->
+  <a href="http://linkedin.com/in/jahidgittu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jahid.hossen.me@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://wa.me/8801640726858" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://github.com/JahidGittu" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.facebook.com/Mohammad.Jahid.Hossen.fb" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://jahidgittu-portfolio.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2300D9FF?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Portfolio" /></a>
+</div>
 
 ---
 
 <div align="center">
   <!-- Animated Footer -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=800&color=00D9FF&center=true&width=600&lines=Thanks+for+visiting+my+profile!+✨;Let's+build+something+amazing+together!+🚀" alt="footer typing" />
 </div>
