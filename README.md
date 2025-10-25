@@ -139,6 +139,12 @@
 
 </div>
 
+<details>
+  <summary>Credits</summary>
+  <p align="center">Designed by hyochan</p>
+</details>
+
+
 
 ---
 
