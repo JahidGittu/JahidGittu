@@ -1,193 +1,145 @@
-<!-- 🌟 GitHub Profile README for JahidGittu -->
+<!-- 🌟 JahidGittu — Polished UI/UX GitHub Profile README -->
 
-<!-- 👋 Intro Section -->
+<!-- ===================== HEADER / HERO ===================== -->
 <div align="center">
-  <img src="https://github.com/JahidGittu/JahidGittu/blob/main/assets/Git%20Profiel%20Banner.jpg" alt="jahidgittu" style="max-width: 100%; height: auto; width: 100%; max-width: 640px;" />
+
+<!-- Keep your banner (REQUIRED) -->
+<img src="https://github.com/JahidGittu/JahidGittu/blob/main/assets/Git%20Profiel%20Banner.jpg" alt="Jahid Hossen Banner" style="max-width:100%; width:100%; height:auto; border-radius: 10px;" />
+
+<!-- Animated capsule header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Jahid%20Hossen&fontSize=46&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Crafting%20Digital%20Solutions%20with%20MERN&descAlignY=66&descSize=14" />
+
+<!-- Typing / role animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00D9FF&center=true&multiline=true&width=780&lines=Full+Stack+Developer;+MERN+Stack+Engineer;+AI+Resume+Builder+Creator;+UI%2FUX+Focused" alt="Typing" />
+
 </div>
-<hr />
 
-<h1 align="center">
-  <strong style="font-size: 2.2rem;">🚀 Hi, I'm <span style="color:#007acc;">Jahid Hossen</span></strong> <br/>
-  <span style="font-size: 1.3rem;">A Passionate, Detail-Oriented <strong>MERN Stack Web Developer</strong></span>
-</h1>
+---
 
+<!-- ===================== QUICK CONTACT CARD ===================== -->
+<div align="center">
+
+**`Jahid Hossen`** · Full Stack Developer · Dhaka, Bangladesh  
+📧 [jahid.hossen.me@gmail.com](mailto:jahid.hossen.me@gmail.com) · ☎️ +8801624334044 · 🌐 [Portfolio](http://jahid-portfolio.surge.sh/) · [GitHub](https://github.com/JahidGittu) · [LinkedIn](https://www.linkedin.com/in/jahidgittu)
+
+</div>
+
+---
+
+## 🎯 Career Objective
+Passionate **MERN-based Full Stack Developer** focused on building scalable, responsive, and user-friendly web applications. Experienced in **React.js, Next.js, Node.js, Express.js, MongoDB** with emphasis on performance optimization, clean architecture, and strong UI/UX. Continuously learning and delivering solutions that make an impact.
+
+---
+
+## 🔥 Tech Stack — My Digital Arsenal
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,vscode,figma,bootstrap" alt="skills" />
+</div>
+
+<div align="center">
+
+**Frontend:** React, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, Bootstrap ·  
+**Backend:** Node.js, Express.js, JWT, Firebase Auth ·  
+**Database:** MongoDB, MySQL ·  
+**Deployment & Tools:** Vercel, Netlify, Render, Firebase Hosting, Git, GitHub, Figma, Jira, Canva
+
+</div>
+
+---
+
+## 🚀 Featured Projects (Pinned)
+> (প্রত্যেক প্রোজেক্ট লিংক/লাইভ/রিপো ঠিক আছে — README-এ ক্লিক করার মত রাখা হয়েছে)
+
+### 💡 Mock-Miya — AI Resume Builder & Interview Simulator
+**Type:** Full-Stack — AI Resume + Interview (Text/Voice/Live) + Job Analyzer + Role-Based Auth  
+**Tech:** React, Node, Express, MongoDB, Tailwind, Firebase  
+🔗 Repo: https://github.com/JahidGittu (main Mock-Miya repos inside)  
+
+### 🏨 Hostel Meals — Hostel Management System
+**Type:** MERN — Meals, Reviews, Admin/User Dashboards, Stripe checkout  
+**Tech:** React, Node, Express, MongoDB, Tailwind, Firebase  
+🔗 Live: https://hostel-management-system-pro.web.app/ · Client: https://github.com/JahidGittu/Hostel-Meals-client-Side.git · Server: https://github.com/JahidGittu/Hostel-Meals-Server-Side.git
+
+### 🎯 Product Recommendation System
+**Type:** MERN — Recommendation logic, Reviews & Ratings, Secure APIs  
+**Tech:** React, Node, Express, MongoDB, Tailwind, Firebase, Framer Motion  
+🔗 Live: https://product-recommendation-pro.web.app/ · Client & Server: GitHub repos linked
+
+### 💡 Bill Management Website
+**Type:** Full-Stack — Utility bill management (view & payment flows)  
+**Tech:** JS, Node, Express, MongoDB, Firebase  
+🔗 Live: https://bill-management-system-1b076.web.app/ · Repo: https://github.com/JahidGittu/Bill-ManageMent-System.git
+
+### 🏡 Roommate Finder Pro
+**Type:** MERN — Filter-based roommate matching with maps (Leaflet)  
+**Tech:** React, Tailwind, Firebase, Leaflet  
+🔗 Live: https://roommate-finder-pro.web.app/ · Client/Server: GitHub repos
+
+---
+
+## 🧩 How I Add Value (UX-focused)
+- 🔍 Clean, reusable, and well-documented code  
+- 📱 Mobile-first and accessible interfaces  
+- ⚡ Performance-first architecture and optimizations  
+- 🤝 Strong collaboration & clear communication in teams  
+- 🎨 UI/UX-minded — polish and usability matter
+
+---
+
+## 🎓 Education & Languages
+**Diploma in Engineering (Computer Science & Technology)** — Shyamoli Ideal Engineering College, Lakshmipur (Passing: 2026)  
+**HSC** — Raipur Rustam Ali Degree College (Passing: 2021)
+
+**Languages:** English — Fluent · Bangla — Native
+
+---
+
+## 🏆 Achievements & Badges
 <p align="center">
-  💻 I build <strong>modern</strong>, <strong>responsive</strong>, and <strong>scalable</strong> web applications using <strong>MERN</strong> Stack & modern tools.<br/>
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jahidgittu&label=Profile%20views&color=0e75b6&style=flat" alt="jahidgittu" />
-</p>
-
-
-<!-- 👤 WHO AM I -->
-<h2>🧑‍💻 Who am I?</h2>
-<p>
-  I’m a hard-working and growth-focused Full-Stack MERN Developer with a Diploma in Computer Engineering and 5+ years of hands-on experience. I’ve been professionally trained through the Programming Hero Web Development Course, where I built multiple real-world projects and contributed to collaborative assignments.
-</p>
-
-<!-- 💼 WHAT DO I DO -->
-<h2>💼 What do I do?</h2>
-<p>
-  I build modern, responsive, and scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js) — along with Tailwind, Firebase, and other latest tools. From personal portfolios to admin dashboards, and client-based systems — I ensure performance, accessibility, and clean UI/UX.
-</p>
-
-<!-- 🎯 WHY DO I DO THIS -->
-<h2>🎯 Why do I do this?</h2>
-<p>
-  I love solving real-world problems through code. Building applications that actually make life easier and help businesses grow is what motivates me. I enjoy turning complex ideas into practical solutions with minimalistic design and optimized performance.
-</p>
-
-<!-- 🚀 HOW DO I ADD VALUE -->
-<h2>🚀 How do I add value?</h2>
-<ul>
-  <li> 🔍 I write clean, reusable, and optimized code</li>
-  <li> 📱  I ensure mobile-first & responsive design</li>
-  <li> 💡  I focus on user experience and performance</li>
-  <li> 🤝 I can work independently or as part of a collaborative team</li>
-  <li> 📈 I constantly learn new technologies to stay up-to-date</li>
-</ul>
-
-<!-- 🔑 TECH KEYWORDS -->
-<h2>🔑 Technologies I'm Interested In</h2>
-<p>
-  <code>JavaScript</code>, <code>TypeScript</code>, <code>React</code>, <code>Next.js</code>, <code>Node.js</code>, <code>Express</code>, <code>MongoDB</code>, <code>Firebase</code>, </br>
-  <code>Tailwind CSS</code>, <code>Figma</code>, <code>Git</code>, <code>REST API</code>, <code>JWT</code>, <code>Axios</code>, <code>Vite</code>, <code>Framer Motion</code>
-</p>
-
-
-<hr />
-
-<!-- 👨‍💻 ABOUT ME -->
-<h2>👨‍💻 About Me</h2>
-<ul>
-  <li>🎓 Diploma in Computer Engineering</li>
-  <li>🌱 Learning: <strong>Next.js, TypeScript</strong></li>
-  <li>💬 Ask me about: React, Express, MongoDB, Firebase, Tailwind</li>
-  <li>⚡ Fun Fact: <code>console.log("bugs")</code> – just to make them feel seen 😅</li>
-  <li>🌍 Portfolio: <a href="http://jahid-portfolio.surge.sh/" target="_blank">jahidgittu.dev</a></li>
-  <li>📫 Email: <a href="mailto:jahid.hossen.me@gmail.com">jahid.hossen.me@gmail.com</a></li>
-  <li>📍 Location: Lakshmipur, Bangladesh</li>
-</ul>
-
-<hr />
-
-<!-- 🎯 LEARNING GOALS -->
-<h2>🎯 Learning Goals (2025)</h2>
-<ul>
-  <li>✅ Build full-stack apps with Next.js + Firebase</li>
-  <li>✅ Learn TypeScript deeply</li>
-  <li>✅ Contribute to open source</li>
-  <li>✅ Design cleaner UI with Tailwind + Figma</li>
-</ul>
-
-<hr />
-
-<!-- 🛠️ SKILLS -->
-<h2>🛠️ Skills & Tools</h2>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,vscode,figma,bootstrap,python,photoshop,illustrator,linux" />
-</p>
-
-<hr />
-
-<!-- 🏆 ACHIEVEMENTS -->
-<h2>🏆 Achievements & Badges</h2>
-<p>
   <img src="https://img.shields.io/badge/-100DaysOfCode-black?style=flat-square&logo=freecodecamp" />
   <img src="https://img.shields.io/badge/-Open%20Source-007acc?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/-Hacktoberfest-orange?style=flat-square&logo=hacktoberfest" />
 </p>
 
-<hr />
+---
 
-<!-- 🌐 CONNECT -->
-<h2>🌐 Connect with Me</h2>
-<p>
-  <a href="mailto:jahid.hossen.me@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/jahidgittu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://wa.me/8801640726858" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</p>
-
-<hr />
-
-<!-- 🚀 PINNED PROJECTS -->
-<h2>🚀 Pinned Projects</h2>
-
-<h3>💡 Bill Management Website</h3>
-<blockquote>একটি সহজ ইউটিলিটি বিল ম্যানেজমেন্ট সিস্টেম যেখানে ইউজাররা বিদ্যুৎ, পানি, গ্যাস ইত্যাদি বিল দেখতে ও পেমেন্ট করতে পারে।</blockquote>
-<ul>
-  <li>🔗 <a href="https://bill-management-system-1b076.web.app/">Live Site</a></li>
-    <li>🔗 <a href="https://github.com/JahidGittu/Bill-ManageMent-System.git">Git Repo</a></li>
-  <li>🧰 JavaScript, Node.js, Express.js, MongoDB, Firebase</li>
-</ul>
-
-<h3>🏡 Roommate Finder Pro</h3>
-<blockquote>Find compatible roommates easily by filtering preferences like budget, lifestyle & location.</blockquote>
-<ul>
-  <li>🔗 <a href="https://roommate-finder-pro.web.app/">Live Site</a></li>
-  <li>🔗 <a href="https://github.com/JahidGittu/Roommate-Finder-Client.git">Client Repo</a></li>
-  <li>🔗 <a href="https://github.com/JahidGittu/Roommate-Finder-Server.git">Server Repo</a></li>
-  <li>🧰 React, Tailwind CSS, Firebase, Leaflet</li>
-</ul>
-
-<h3>🎯 Product Recommendation System</h3>
-<blockquote>Submit boycott queries, view suggestions, comment and rate. Responsive UI with animations.</blockquote>
-<ul>
-  <li>🔗 <a href="https://product-recommendation-pro.web.app/">Live Demo</a></li>
-  <li>🔗 <a href="https://github.com/JahidGittu/Product-Recommendation-Client.git">Client Repo</a></li>
-  <li>🔗 <a href="https://github.com/JahidGittu/Product-Recommendation-Server.git">Server Repo</a></li>
-  <li>🧰 React, Vite, Tailwind CSS, Firebase Auth, Framer Motion, GSAP, Node.js, Express.js, MongoDB</li>
-</ul>
-
-<h3>🏨 Hostel Meals – Hostel Management System</h3>
-<blockquote>Hostel meal & review system for university students. Admin panel included.</blockquote>
-<ul>
-  <li>🔗 <a href="https://hostel-management-system-pro.web.app/">Live Site</a></li>
-  <li>🔗 <a href="https://github.com/JahidGittu/Hostel-Meals-client-Side.git">Client Repo</a></li>
-  <li>🔗 <a href="https://github.com/JahidGittu/Hostel-Meals-Server-Side.git">Server Repo</a></li>
-  <li>👨‍💼 Admin: <code>code@gittu.com</code> / Password: <code>123456</code></li>
-  <li>🧰 React, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB</li>
-</ul>
-
-<hr />
-
-<!-- 📈 GITHUB STATS -->
-<h2>📈 GitHub Stats</h2>
+## 📈 GitHub Stats & Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahidgittu&show_icons=true&theme=radical&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidgittu&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jahidgittu&show_icons=true&theme=radical&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidgittu&layout=compact&theme=radical" height="160" />
 </div>
 
-<hr />
+---
 
-<!-- 🧪 LANGUAGES SHOWCASE -->
-<h2>💻 Languages & Technologies I Use</h2>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
-</p>
+## 🌐 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/jahidgittu/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" /></a>
+  <a href="mailto:jahid.hossen.me@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" /></a>
+  <a href="https://wa.me/8801624334044" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" /></a>
+  <a href="http://jahid-portfolio.surge.sh/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/web/default.svg" width="48" /></a>
+</div>
 
-<hr />
+---
 
-<!-- 🐍 CONTRIBUTION SNAKE -->
-<h2>🐍 Contribution Snake Animation</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jahidgittu/jahidgittu/output/snake.svg" alt="Snake animation" />
-</p>
+## 💭 Developer Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker" alt="dev quote" />
+</div>
+
+---
+
+## 🎨 Fun Zone & Developer Life
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="80%" style="object-fit:cover;" alt="matrix" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&width=600&lines=if+(coding)+%7B+mood+%3D+'Happy'+%7D;else+if+(debugging)+%7B+mood+%3D+'Determined'+%7D;else+%7B+mood+%3D+'Ready+to+ship!'+%7D" alt="status" />
+</div>
+
+---
+
+<!-- Animated Footer -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=800&color=00D9FF&center=true&width=600&lines=Thanks+for+visiting+my+profile!+✨;Let's+build+something+amazing+together!+🚀" alt="footer typing" />
+</div>
