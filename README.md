@@ -9,7 +9,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Jahid%20Hossen&fontSize=44&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Building+Modern+Web+Apps+with+MERN&descAlignY=62&descSize=14" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1000&color=00D9FF&center=true&multiline=true&width=780&lines=MERN+Based+Full+Stack+Developer;+AI+Tools+Builder;+UI%2FUX+Focused" alt="Typing" height="120" />
+<!-- Typing Animation with proper height -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1000&color=00D9FF&center=true&multiline=true&width=780&lines=MERN+Based+Full+Stack+Developer;+AI+Tools+Builder;+UI%2FUX+Focused" 
+     alt="Typing" 
+     style="height:150px; display:block; margin:auto;" />
+
 
 </div>
 
