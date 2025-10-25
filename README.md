@@ -123,6 +123,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidgittu&layout=compact&theme=radical" width="48%" />
 </div>
 
+
+
+<div align="center">
+
+# 📊 GitHub Analytics & Performance <img src="https://media2.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
+
+<!-- Holographic Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" />
+
+<!-- GitHub Advanced Stats -->
+<div align="center">
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=jahidgittu" alt="JahidGittu GitHub Advanced Stats" width="90%" />
+</div>
+
+</div>
+
+
 ---
 
 <div align="center">
