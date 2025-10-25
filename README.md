@@ -18,12 +18,36 @@
 </div>
 
 ---
-
 ## 👋 About Me
 <div align="center">
-**Jahid Hossen** · Full Stack Developer · Dhaka, Bangladesh  
-📧 [jahid.hossen.me@gmail.com](mailto:jahid.hossen.me@gmail.com) · ☎️ +8801624334044 · ☎️ +8801640726858 · 🌐 [Portfolio](https://jahidgittu-portfolio.web.app/) · [GitHub](https://github.com/JahidGittu) · [LinkedIn](http://linkedin.com/in/jahidgittu) · [Facebook](https://www.facebook.com/Mohammad.Jahid.Hossen.fb)  
+
+### **Jahid Hossen**  
+<span style="font-size:16px; color:#555;">Full Stack Developer · Dhaka, Bangladesh</span>
+
+<br /><br />
+
+<!-- Contact & Social Links as badges -->
+<a href="mailto:jahid.hossen.me@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="tel:+8801640726858">
+  <img src="https://img.shields.io/badge/Phone-%230077B5?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
+</a>
+<a href="https://jahidgittu-portfolio.web.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%2300D9FF?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://github.com/JahidGittu" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="http://linkedin.com/in/jahidgittu" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.facebook.com/Mohammad.Jahid.Hossen.fb" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
 </div>
+
 
 > Passionate MERN-based Full Stack Developer with hands-on experience building scalable, responsive, and user-friendly web applications. Skilled in React.js, Next.js, Node.js, Express.js, and MongoDB, with a strong focus on performance optimization and clean code architecture. Dedicated to continuous learning and contributing innovative solutions.
 
