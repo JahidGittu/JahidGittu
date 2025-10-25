@@ -152,16 +152,28 @@
 </p>
 
 ---
-
 ## 🌐 Connect with Me
 <div align="center">
-  <a href="http://linkedin.com/in/jahidgittu" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" /></a>
-  <a href="mailto:jahid.hossen.me@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" /></a>
-  <a href="https://wa.me/8801640726858" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" /></a>
-  <a href="https://github.com/JahidGittu" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="48" /></a>
-  <a href="https://www.facebook.com/Mohammad.Jahid.Hossen.fb" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="48" /></a>
-  <a href="https://jahidgittu-portfolio.web.app/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/web/default.svg" width="48" /></a>
+  <a href="http://linkedin.com/in/jahidgittu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jahid.hossen.me@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/8801640726858" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://github.com/JahidGittu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.facebook.com/Mohammad.Jahid.Hossen.fb" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://jahidgittu-portfolio.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2300D9FF?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
+
 
 ---
 
