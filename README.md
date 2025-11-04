@@ -28,8 +28,8 @@
 
 <div align="center">
 
-**Jahid Hossen** · Full Stack Developer · Dhaka, Bangladesh  
-📧 [jahid.hossen.me@gmail.com](mailto:jahid.hossen.me@gmail.com) · ☎️ +8801624334044 · ☎️ +8801640726858  
+**Jahid Hossen** · MERN Stack Developer · Dhaka, Bangladesh  
+📧 [jahid.hossen.me@gmail.com](mailto:jahid.hossen.me@gmail.com) · ☎️ +8801640726858  
 🌐 [Portfolio](https://jahidgittu-portfolio.web.app/) · [GitHub](https://github.com/JahidGittu) · [LinkedIn](http://linkedin.com/in/jahidgittu) · [Facebook](https://www.facebook.com/Mohammad.Jahid.Hossen.fb)
 
 </div>
