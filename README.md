@@ -34,7 +34,7 @@
 
 </div>
 
-- 🔭 Currently building **MERN stack web apps & AI-based tools**  
+- 🔭 Currently building **Full stack web apps & Modern SASS Application & AI-based tools**  
 - 🌱 Learning **Next.js, TypeScript, AI integration**  
 - 💬 Talk to me about **React.js, Node.js, MongoDB, Firebase, Tailwind CSS**  
 - ⚡ Fun fact: **I enjoy turning complex ideas into simple, scalable solutions with clean UI/UX**
